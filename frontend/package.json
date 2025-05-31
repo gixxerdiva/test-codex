@@ -1,0 +1,16 @@
+{
+  "name": "ai-data-saas-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "lucide-react": "0.292.0"
+  }
+}

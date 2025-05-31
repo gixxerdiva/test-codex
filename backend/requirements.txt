@@ -1,0 +1,7 @@
+# backend/requirements.txt
+# Lists Python packages required for the backend.
+# Not intended for global package management.
+
+fastapi==0.110.0
+uvicorn==0.29.0
+supabase==1.0.2
