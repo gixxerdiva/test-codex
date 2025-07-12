@@ -10,7 +10,7 @@ const Home: FC = () => {
     <main style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
       <h1>
         <Sparkles style={{ marginRight: '0.5rem' }} />
-        AI Data Engineering SaaS
+        AI Android Mobile Class
       </h1>
       <p>Welcome to your Next.js frontend.</p>
     </main>

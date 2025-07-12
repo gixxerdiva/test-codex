@@ -1,12 +1,12 @@
 <!-- README.md -->
-<!-- Describes the simple full-stack template for an AI Data Engineering SaaS. -->
+<!-- Describes the simple full-stack template for an AI Android Mobile class. -->
 <!-- Not a place for detailed business logic or secrets. -->
 
-# AI Data Engineering SaaS Template
+# AI Android Mobile Class Template
 
-This repository contains a very small Next.js frontend and a Python backend. The
-backend connects to Supabase. The goal is to give you a clean starting point
-without extra complexity.
+This repository contains a small Next.js frontend and a Python backend. The
+backend connects to Supabase. The goal is to give you a clean starting point for
+mobile AI coursework without extra complexity.
 
 ## Tech Stack
 
@@ -28,7 +28,7 @@ backend/
 ```
 
 The `frontend` folder holds the Next.js app. The `backend/app` folder contains
-FastAPI code. Add more modules here as you build your SaaS.
+FastAPI code. Add more modules here as you build your class projects.
 
 ## Running Locally
 
